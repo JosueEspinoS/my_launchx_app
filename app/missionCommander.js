@@ -5,4 +5,4 @@ class MissionCommander {
     }
 }
 // Permite exportar nuestra clase
-module.export = MissionCommander
+module.exports = MissionCommander
